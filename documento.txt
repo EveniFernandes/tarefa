@@ -1,0 +1,2 @@
+git clone: clona um repositório git existente para um novo repositório local
+git pull : puxa as alterações do repositório remoto para o local 
